@@ -9,7 +9,8 @@ This project includes:
 
 ## Architecture
 
-![Pipeline diagram](docs/pipeline.png)
+![Pipeline diagram](docs/pipeline_diagram.png)
+
 
 ---
 
